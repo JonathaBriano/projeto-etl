@@ -1,0 +1,57 @@
+[
+    {
+        "UserID": 1,
+        "name": "Almada",
+        "number_account": "0001-1",
+        "number_card": "**** **** **** 1111",
+        "news": [
+            {
+                "description": "Almada, investir garante segurança, crescimento e realizações futuras. Não deixe seu dinheiro parado."
+            }
+        ]
+    },
+    {
+        "UserID": 2,
+        "name": "Jhon",
+        "number_account": "0002-2",
+        "number_card": "**** **** **** 2222",
+        "news": [
+            {
+                "description": "Jhon, investir hoje garante segurança e crescimento para seu futuro financeiro."
+            }
+        ]
+    },
+    {
+        "UserID": 3,
+        "name": "Alexander",
+        "number_account": "0003-3",
+        "number_card": "**** **** **** 3333",
+        "news": [
+            {
+                "description": "Alexander, investir hoje garante futuro seguro e renda passiva. Comece agora!"
+            }
+        ]
+    },
+    {
+        "UserID": 4,
+        "name": "Luiz",
+        "number_account": "0004-4",
+        "number_card": "**** **** **** 4444",
+        "news": [
+            {
+                "description": "Luiz, investir garante futuro seguro, renda extra e protege seu patrimônio da inflação."
+            }
+        ]
+    },
+    {
+        "UserID": 5,
+        "name": "Igor",
+        "number_account": "0005-5",
+        "number_card": "**** **** **** 5555",
+        "news": [
+            {
+                "description": "Igor, investir hoje garante segurança e crescimento financeiro para seu futuro."
+            }
+        ]
+    }
+]
